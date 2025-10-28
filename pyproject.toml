@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "annotate-ooi2021"
+version = "0.1.0"
+description = "Annotation tools and notebook for OOI 2021 DAS dataset"
+authors = ["qgoestch <qgoestch@uw.edu>"]
+license = "GNU GPLv3"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "*"
+pandas = "*"
+xarray = "*"
+holoviews = "*"
+hvplot = "*"
+panel = "*"
+bokeh = "*"
+scipy = "*"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

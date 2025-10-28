@@ -1,0 +1,9 @@
+# Fallback requirements file. Use this if you prefer plain pip/venv installs.
+numpy
+pandas
+xarray
+holoviews
+hvplot
+panel
+bokeh
+scipy
