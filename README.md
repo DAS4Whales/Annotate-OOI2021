@@ -1,5 +1,7 @@
 # Annotate-OOI2021
 
+[![DOI](https://zenodo.org/badge/1062015413.svg)](https://doi.org/10.5281/zenodo.17462951)
+
 ## What this repository does
 
 This repository contains code and a small notebook to assist with annotating fin whale call detections from the  [2021 OOI RCA dataset](https://oceanobservatories.org/pi-instrument/rapid-a-community-test-of-distributed-acoustic-sensing-on-the-ocean-observatories-initiative-regional-cabled-array/) .
